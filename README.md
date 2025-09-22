@@ -53,11 +53,11 @@ END
 
 ```
 OUTPUT
-
-(Keil output screenshot can be inserted here)
-
+<img width="1283" height="713" alt="image" src="https://github.com/user-attachments/assets/32fe825d-1c75-4c6f-825f-f26fd2b04a77" />
+<img width="1321" height="636" alt="image" src="https://github.com/user-attachments/assets/07b5d047-19b1-496c-9b73-8c644eb87074" />
 ---
 MANUAL CALCULATIONS
+![WhatsApp Image 2025-09-22 at 19 01 16_803a4ebd](https://github.com/user-attachments/assets/9fb06f29-4366-476b-920f-aa9526fe0429)
 
 ---
 
