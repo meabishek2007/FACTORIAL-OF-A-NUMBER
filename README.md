@@ -53,7 +53,7 @@ END
 
 ```
 OUTPUT
-<img width="1283" height="713" alt="image" src="https://github.com/user-attachments/assets/32fe825d-1c75-4c6f-825f-f26fd2b04a77" />
+<img width="1284" height="634" alt="Screenshot 2025-09-22 185046" src="https://github.com/user-attachments/assets/3f7d3734-42b1-4e70-9560-a45f791ed48f" />
 <img width="1321" height="636" alt="image" src="https://github.com/user-attachments/assets/07b5d047-19b1-496c-9b73-8c644eb87074" />
 ---
 MANUAL CALCULATIONS
