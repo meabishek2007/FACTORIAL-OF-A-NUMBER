@@ -53,7 +53,7 @@ END
 
 ```
 OUTPUT
-<img width="1284" height="634" alt="Screenshot 2025-09-22 185046" src="https://github.com/user-attachments/assets/3f7d3734-42b1-4e70-9560-a45f791ed48f" />
+![WhatsApp Image 2025-09-23 at 20 49 41_7e59c9a8](https://github.com/user-attachments/assets/9c630df0-81a7-4a4f-aa5d-4a64a95cd43d)
 <img width="1321" height="636" alt="image" src="https://github.com/user-attachments/assets/07b5d047-19b1-496c-9b73-8c644eb87074" />
 ---
 MANUAL CALCULATIONS
