@@ -56,13 +56,14 @@ OUTPUT
 ![WhatsApp Image 2025-09-23 at 20 49 41_7e59c9a8](https://github.com/user-attachments/assets/9c630df0-81a7-4a4f-aa5d-4a64a95cd43d)
 <img width="1321" height="636" alt="image" src="https://github.com/user-attachments/assets/07b5d047-19b1-496c-9b73-8c644eb87074" />
 ---
+
 MANUAL CALCULATIONS
+
 ![WhatsApp Image 2025-09-22 at 19 01 16_803a4ebd](https://github.com/user-attachments/assets/9fb06f29-4366-476b-920f-aa9526fe0429)
 
 ---
 
 RESULT
-
 Thus, the factorial of a number was calculated and executed successfully using 8051 Keil.
 
 ---
